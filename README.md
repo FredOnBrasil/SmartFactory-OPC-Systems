@@ -6,3 +6,7 @@
 
 <h3> Equipe responsável: <br> Marilene Araujo e Vinícius </h3>
 <h3> Instrutor: Fred Aguiar </h3>
+
+<hr>
+
+<h2 align="center"> Introdução </h2>
