@@ -5,7 +5,7 @@
 </p>
 
 <h3> Equipe responsável: <br> Marilene Araujo e Vinícius </h3>
-<h3> Instrutor: Fred Aguiar </h3>
+<h3> Instrutor: Frederico Martins Aguiar </h3>
 
 <hr>
 
