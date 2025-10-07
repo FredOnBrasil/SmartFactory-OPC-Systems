@@ -42,5 +42,6 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <b> Dificuldades </b>
 - Organização das informações coletadas;
 - Planejamento no recebimento das informações.
+- Controle da execução das squads.
 
 <hr>
