@@ -20,7 +20,7 @@ O cliente solicitou que a aplicação seja capaz de:
 - Permitir o acionamento remoto de dispositivos (motor, relé, servo).
 - Versionar toda a documentação e o código no GitHub <br>
 
-A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma Software House industrial dividida em squads de responsabilidade.
+A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma software house industrial dividida em squads de responsabilidade.
 
 <hr>
 
