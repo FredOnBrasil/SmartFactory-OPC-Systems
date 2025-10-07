@@ -14,11 +14,11 @@
 A empresa SmartFactory OPC Systems está desenvolvendo uma solução para monitoramento e controle de uma planta piloto, utilizando o protocolo OPC UA como meio de comunicação entre dispositivos fisicos e aplicações desktop. <br>
 O cliente solicitou que a aplicação seja capaz de:
 
-- 1- Coletar dados de sensores conectados a um Arduino (via Serial).
-- 2- Publicar os dados coletados em um Servidor OPC UA.
-- 3- Criar Clientes WPF independentes para cada grandeza medida.
-- 4- Permitir o acionamento remoto de dispositivos (motor, relé, servo).
-- 5- obs: Versionar toda a documentação e o código no GitHub <br>
+- Coletar dados de sensores conectados a um Arduino (via Serial).
+- Publicar os dados coletados em um Servidor OPC UA.
+- Criar Clientes WPF independentes para cada grandeza medida.
+- Permitir o acionamento remoto de dispositivos (motor, relé, servo).
+- Versionar toda a documentação e o código no GitHub <br>
 
 A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma Software House industrial dividida em squads de responsabilidade.
 
