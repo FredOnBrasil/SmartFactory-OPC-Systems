@@ -53,12 +53,12 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
   Este squad é o responsável pela coleta de dados no nível do hardware e pela comunicação middleware, formando a base da arquitetura Cliente-Servidor do OPC UA.<br>  
 </p>
 
-- <b>Integração de Sensores:</b> Selecionar, calibrar e conectar os Sensores físicos (Ultrassônico (HC-SR04) e Umidade do Solo) ao Arduino.
-- <b>Firmware do Arduino:</b> Desenvolver o código (Sketch) para que o Arduino faça a leitura das 2 grandezas de forma contínua e confiável.
-- <b>Atuadores e Drives:</b> Ser responsável por transformar os comandos digitais recebidos pela rede (OPC UA) em ações físicas na planta piloto.
-   - Acionamento Remoto: Cumprir o Requisito 4 do cliente: "Permitir o acionamento remoto de dispositivos (motor, relé, servo)".
-   - Drivers e Proteção: Utilizar o Driver de Motor L298N para fornecer a corrente e voltagem necessárias aos atuadores, protegendo o Arduino no processo.
-- <b>Comunicação de Saída:</b> Implementar a lógica para formatar os dados dos sensores e atuadores e enviá-los de forma serial para a próxima camada, o Servidor OPC UA, será o responsável por publicar esses dados no Address Space para os clientes.
+- <b>Integração de Sensores: </b> Selecionar, calibrar e conectar os Sensores físicos (Ultrassônico (HC-SR04) e Umidade do Solo) ao Arduino.
+- <b>Firmware do Arduino: </b> Desenvolver o código (Sketch) para que o Arduino faça a leitura das 2 grandezas de forma contínua e confiável.
+- <b>Atuadores e Drives: </b> Ser responsável por transformar os comandos digitais recebidos pela rede (OPC UA) em ações físicas na planta piloto.
+   - <b> Acionamento Remoto: </b> Cumprir o Requisito 4 do cliente: "Permitir o acionamento remoto de dispositivos (motor, relé, servo)".
+   - <b> Drivers e Proteção: </b> Utilizar o Driver de Motor L298N para fornecer a corrente e voltagem necessárias aos atuadores, protegendo o Arduino no processo.
+- <b> Comunicação de Saída: </b> Implementar a lógica para formatar os dados dos sensores e atuadores e enviá-los de forma serial para a próxima camada, o Servidor OPC UA, será o responsável por publicar esses dados no Address Space para os clientes.
 
 <b> Pontos Importantes </b>
 - As ligações positivo e negativo (5V e GND) identificadas em vermelho e preto para padronização
