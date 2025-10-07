@@ -74,10 +74,10 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <p align="center"> Imagem </p>
 
-<h3 align="center"> Código do Arduino Versão Inicial </h3>
+<h3 align="center"> Código do Arduino Versão Inicial - V.1.0 </h3>
 
 <p align="center"> Imagem </p>
 
-<h3 align="center"> Código do Arduino Versão Final </h3>
+<h3 align="center"> Código do Arduino Versão Final - V.2.0 </h3>
 
 <p align="center"> Imagem </p>
