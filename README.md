@@ -29,7 +29,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <h2> Squad 1: Documentação e Testes </h2>
 
 <p align="justify">
-  Squad composto pelos membros: <b>Marilene Araujo e Vinícius.</b> <br>
+  Squad composto pelos membros: <b>Marilene Araujo e Vinícius Gomes.</b> <br>
   Esta Squad garante a qualidade, rastreabilidade e manutenibilidade de todo o projeto. <br>
 </p>
 
@@ -45,3 +45,22 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - Controle da execução das squads.
 
 <hr>
+
+<h2> Squad 2: Hardware & Coleta de Dados </h2>
+
+<p align="justify"> 
+  Squad composto pelos membros: <b> Alice Virginia, Danilo Santos, Luna Beatriz, , Vinicius Otávio.</b> <br>
+  Este Squad é responsável pela fonte dos dados e sua correta aquisição no nível do hardware.<br>
+</p>
+
+- <b>Integração de Sensores:</b> Selecionar, calibrar e conectar os 5 sensores físicos ao Arduino.
+- <b>Firmware do Arduino:</b> Desenvolver o código (Sketch) para o Arduino que faça a leitura das 5 grandezas de forma contínua e confiável.
+- <b>Comunicação de Saída:</b> Implementar a lógica para formatar os dados e enviá-los de forma serial ou via rede (Wi-Fi/Ethernet) para a próxima camada (o Publicador).
+
+<b> Pontos Importantes </b>
+- As ligações positivo e negativo (5V e GND) identificadas em vermelho e preto para padronização
+
+<b> Dificuldades </b>
+- Montagem e ligação dos sensores a protoboard/arduino sendo posição correta de conexão do sensor
+
+<h3 align="center"> Esquema de Montagem do Aduino </h3>
