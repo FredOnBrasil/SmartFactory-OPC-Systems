@@ -21,3 +21,21 @@ O cliente solicitou que a aplicação seja capaz de:
 - 5- obs: Versionar toda a documentação e o código no GitHub <br>
 
 A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma Software House industrial dividida em squads de responsabilidade.
+
+<hr>
+
+<h2 align="center"> Responsabilidades das Squads </h2>
+
+<h2> Squad 1: Documentação e Testes </h2>
+
+<p align="justify">
+  Squad composto pelos membros: <b>Marilene Araujo e Vinícius.</b> <br>
+  Esta Squad garante a qualidade, rastreabilidade e manutenibilidade de todo o projeto. <br>
+</p>
+
+- <b>Plano de Testes:</b> Elaborar e executar Testes de Integração (fim a fim: Arduino → WPF) e Testes Unitários (código do Arduino, parsing de JSON, etc.).
+- <b>Documentação Técnica:</b> Compilar toda a documentação gerada pelos outros Squads (diagramas, código-fonte, configurações do OPC UA) em um repositório centralizado.
+- <b>Documentação do Usuário:</b> Criar Cliente (WPF) independentes para cada grandeza medida.
+- <b>Permitir o acionamento remoto de dispositivos.
+  
+
