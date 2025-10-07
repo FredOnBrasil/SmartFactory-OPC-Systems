@@ -34,9 +34,9 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 </p>
 
 1. Plano de Testes e Qualidade
-- Testes de Integração (Fim a Fim): Elaborar e executar um plano de testes que cubra a jornada completa de um dado, desde a coleta do sensor (Arduino/Serial) até a sua publicação no Servidor OPC UA e a visualização no Cliente WPF. O teste de integração também deve cobrir o acionamento remoto de atuadores. 
-- Testes Unitários: Focar na confiabilidade do código de baixo nível, como a correta leitura dos dados no Arduino  e o parsing (estruturação) dos dados para o Servidor OPC UA.  
-- Gerenciamento de Requisitos: Manter o checklist de verificação dos 5 requisitos do cliente (Coletar Dados, Publicar OPC UA, Clientes WPF, Acionamento Remoto, Versionamento).
+- <b> Testes de Integração (Fim a Fim): </b> Elaborar e executar um plano de testes que cubra a jornada completa de um dado, desde a coleta do sensor (Arduino/Serial) até a sua publicação no Servidor OPC UA e a visualização no Cliente WPF. O teste de integração também deve cobrir o acionamento remoto de atuadores. 
+- <b> Testes Unitários: </b>Focar na confiabilidade do código de baixo nível, como a correta leitura dos dados no Arduino  e o parsing (estruturação) dos dados para o Servidor OPC UA.  
+- <b> Gerenciamento de Requisitos: </b> Manter o checklist de verificação dos 5 requisitos do cliente (Coletar Dados, Publicar OPC UA, Clientes WPF, Acionamento Remoto, Versionamento).
 - <b>Documentação Técnica:</b> Compilar toda a documentação gerada pelos outros Squads (diagramas, código-fonte, configurações do OPC UA) em um repositório centralizado.
 
 <b> Dificuldades </b>
