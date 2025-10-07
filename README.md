@@ -33,7 +33,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma S
   Esta Squad garante a qualidade, rastreabilidade e manutenibilidade de todo o projeto. <br>
 </p>
 
-- <b>Plano de Testes:</b> Elaborar e executar Testes de Integração (fim a fim: Arduino → WPF) e Testes Unitários (código do Arduino, parsing de JSON, etc.).
+- <b>Plano de Testes:</b> Elaborar e executar Testes de Integração (fim a fim: Arduino → WPF) e Testes Unitários (código do Arduino, ...., etc.).
 - <b>Documentação Técnica:</b> Compilar toda a documentação gerada pelos outros Squads (diagramas, código-fonte, configurações do OPC UA) em um repositório centralizado.
 - <b>Documentação do Usuário:</b> Criar Cliente (WPF) independentes para cada grandeza medida.
 - <b>Permitir o acionamento remoto de dispositivos.
