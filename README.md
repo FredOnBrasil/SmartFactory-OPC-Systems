@@ -99,11 +99,11 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
   Este Squad tem a responsabilidade de desenvolver as aplicações desktop independentes, essenciais para a visualização e controle de cada variável. <br>
 </p>
 
-- <b>Interface de Coleta:</b> Criar a aplicação WPF independentes integradas ao SDK OPC UA.
-   - <b> Conexão e SDK OPC UA: </b> Integrar e configurar o SDK OPC UA Client na aplicação WPF para se conectar ao Servidor (Squad 02).
-   - <b> Monitoramento via Subscription: </b> Implementar a lógica para assinar (subscribe) as variáveis (Nodes) do Servidor OPC UA, garantindo que os dados dos sensores sejam visualizados em tempo real no desktop.
-   - <b> Acionamento Remoto (Escrita): </b> Criar a interface e o código para enviar comandos de escrita para o Servidor OPC UA, permitindo o acionamento remoto dos atuadores (motor, relé, servo).
-   - <b> Gerenciamento de Conexão: </b> Implementar a lógica de reconexão automática ao Servidor OPC UA e o tratamento de falhas na leitura dos Nodes.
+- Criar aplicações clientes WPF independentes para cada grandeza medida (por exemplo, um cliente para temperatura, outro para umidade, etc.).
+- Implementar a interface gráfica (UI) para visualização dos dados em tempo real.
+- Garantir que cada cliente consiga ler e escrever dados no servidor OPC UA (monitorar e também enviar comandos).
+- Desenvolver recursos de controle remoto para dispositivos (acionamento de motor, servo, relé) via OPC UA.
+- Realizar testes de desempenho e confiabilidade na comunicação cliente-servidor.
 
 <h3 align="center"> Interface WPF Client </h3>
 
