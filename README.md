@@ -133,7 +133,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <h2> Squad 4: Gêmeo Digital </h2>
 
 <p align="justify">
-  Squad composto pelos membros: <b>Diulie Batista, Yhan, Nicolas Oliveira, Bruno Maia.</b> <br>
+  Squad composto pelos membros: <b>Lucas Aquino, Miguel, Erick.</b> <br>
   Este Squad tem a responsabilidade de desenvolver as aplicações desktop independentes, essenciais para a visualização e controle de cada variável. <br>
 </p>
 
