@@ -116,6 +116,6 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 </p>
 
 <p align="center">
-  Interface atual após correção dos erros. <br>
-  <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2004.jpeg" width="921"/>
+  Interface atual após a correção dos erros. <br>
+ imagem
 </p>
