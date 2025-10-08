@@ -36,7 +36,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - Elaborar e manter toda a documentação técnica do projeto, incluindo:
     - Estrutura e arquitetura geral do sistema OPC UA.
     - Diagrama de blocos e fluxos de dados entre os módulos.      
-,  - Configuração e uso das aplicações (Servidor, Clientes e Arduino).
+,   - Configuração e uso das aplicações (Servidor, Clientes e Arduino).
 - Criar e gerenciar o repositório GitHub da turma, garantindo versionamento adequado do código e da documentação.
 - Definir e aplicar planos de teste funcionais e de integração:
   - Testar a comunicação Serial (Arduino ↔ Servidor).
