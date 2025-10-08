@@ -82,7 +82,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <h3 align="center"> Montagem Protótipo </h3>
 
-<p align="center"> Imagem </p>
+<p align="center"><img src="imagens/imagem 2" height="500" width="700" alt="Imagem da montagem do Arduino"> </p></p>
 
 <h3 align="center"> Código do Arduino Versão Inicial - V.1.0 </h3>
 
