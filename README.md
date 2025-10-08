@@ -1,3 +1,4 @@
+
 <h1 align="center"> Documentação Smart Factory: OPC-Systems <br> Software House industrial. </h1>
 <p align="center"> 
   
@@ -96,7 +97,8 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <p align="justify">
   Squad composto pelos membros: <b>Diulie Batista, Yhan, Nicolas Oliveira, Bruno Maia.</b> <br>
-  Este Squad tem a responsabilidade de desenvolver as aplicações desktop independentes, essenciais para a visualização e controle de cada variável. <br>
+  Este Squad tem a responsabilidade de desenvolver as aplicações Cliente WPF (desktop) independentes, que se conectam ao Servidor OPC UA, oferecendo visualização em tempo real dos sensores e permitindo o envio de comandos remotos de controle para os atuadores. <br>
+  
 </p>
 
 - Criar aplicações clientes WPF independentes para cada grandeza medida (por exemplo, um cliente para temperatura, outro para umidade, etc.).
@@ -133,7 +135,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <h2> Squad 4: Gêmeo Digital </h2>
 
 <p align="justify">
-  Squad composto pelos membros: <b>Lucas Aquino, Miguel, Erick.</b> <br>
+  Squad composto pelos membros: <b>Lucas Aquino, Miguel Duarte, Erick.</b> <br>
   Este Squad tem a responsabilidade de desenvolver as aplicações desktop independentes, essenciais para a visualização e controle de cada variável. <br>
 </p>
 
