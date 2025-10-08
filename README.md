@@ -97,9 +97,25 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
    - <b> Acionamento Remoto (Escrita): </b> Criar a interface e o código para enviar comandos de escrita para o Servidor OPC UA, permitindo o acionamento remoto dos atuadores (motor, relé, servo).
    - <b> Gerenciamento de Conexão: </b> Implementar a lógica de reconexão automática ao Servidor OPC UA e o tratamento de falhas na leitura dos Nodes.
 
-<h3 align="center"> Interface WPF Publisher </h3>
+<h3 align="center"> Interface WPF Client </h3>
 
 <p align="center"> 
-  Idealização da primeira interface: <br>
-  <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2001.jpg"/> 
+  Idealização da primeira interface:  <br>
+  imagem
+</p>
+
+<p align="center"> 
+  Segunda interface mais intuitiva: <br>
+  imagem
+</p>
+
+<p align="center"> 
+  Tela com erro o a ser solucionado: <br>
+  DESCRIÇÃO DO ERRO. <br>
+  imagem 
+</p>
+
+<p align="center">
+  Interface atual após correção dos erros. <br>
+  <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2004.jpeg" width="921"/>
 </p>
