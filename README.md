@@ -78,11 +78,11 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <h3 align="center"> Esquema de Montagem do Aduino </h3>
 
-<p align="center"> <img src="imagens/arduino-esquema-montagem.jpeg" height="500" width="700" alt="Imagem da montagem do Arduino"> </p>
+<p align="center">DIAGRAMA</p>
 
 <h3 align="center"> Montagem Protótipo </h3>
 
-<p align="center"><img src="imagens/imagem 2.jpg" height="500" width="700" alt="Imagem da montagem do Arduino"> </p></p>
+<p align="center"> <img src="imagens/arduino-esquema-montagem.jpeg" height="500" width="700" alt="Imagem da montagem do Arduino"> </p></p>
 
 <h3 align="center"> Código do Arduino Versão Inicial - V.1.0 </h3>
 
