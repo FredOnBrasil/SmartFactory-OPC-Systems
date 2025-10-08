@@ -81,3 +81,25 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <h3 align="center"> Código do Arduino Versão Final - V.2.0 </h3>
 
 <p align="center"> Imagem </p>
+
+<hr>
+
+<h2> Squad 3: Clientes OPC UA </h2>
+
+<p align="justify">
+  Squad composto pelos membros: <b>Diulie Batista, Yhan, Nicolas , Bruno Maia.</b> <br>
+  Este Squad tem a responsabilidade de desenvolver as aplicações desktop independentes, essenciais para a visualização e controle de cada variável. <br>
+</p>
+
+- <b>Interface de Coleta:</b> Criar a aplicação WPF independentes integradas ao SDK OPC UA.
+   - <b> Conexão e SDK OPC UA: </b> Integrar e configurar o SDK OPC UA Client na aplicação WPF para se conectar ao Servidor (Squad 02).
+   - <b> Monitoramento via Subscription: </b> Implementar a lógica para assinar (subscribe) as variáveis (Nodes) do Servidor OPC UA, garantindo que os dados dos sensores sejam visualizados em tempo real no desktop.
+   - <b> Acionamento Remoto (Escrita): </b> Criar a interface e o código para enviar comandos de escrita para o Servidor OPC UA, permitindo o acionamento remoto dos atuadores (motor, relé, servo).
+   - <b> Gerenciamento de Conexão: </b> Implementar a lógica de reconexão automática ao Servidor OPC UA e o tratamento de falhas na leitura dos Nodes.
+
+<h3 align="center"> Interface WPF Publisher </h3>
+
+<p align="center"> 
+  Idealização da primeira interface: <br>
+  <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squad%202/S2%2001.jpg"/> 
+</p>
