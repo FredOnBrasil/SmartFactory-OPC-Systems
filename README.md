@@ -127,3 +127,26 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
  Interface atual após a correção dos erros. <br>
  imagem
 </p>
+
+<hr>
+
+<h2> Squad 4: Gêmeo Digital </h2>
+
+<p align="justify">
+  Squad composto pelos membros: <b>Diulie Batista, Yhan, Nicolas Oliveira, Bruno Maia.</b> <br>
+  Este Squad tem a responsabilidade de desenvolver as aplicações desktop independentes, essenciais para a visualização e controle de cada variável. <br>
+</p>
+
+- Desenvolver um gêmeo digital (representação virtual da planta piloto), que reproduza em tempo real o comportamento dos sensores e atuadores.
+
+- Criar uma interface 3D ou painel gráfico dinâmico que mostre:
+
+  - Variação dos sensores.
+
+  - Estado dos atuadores (ligado/desligado, posição, etc.).
+
+- Integrar o gêmeo digital ao Servidor OPC UA para sincronizar dados reais e simulados.
+
+- Implementar um modo de simulação offline, permitindo testar o sistema mesmo sem hardware físico.
+
+- Colaborar com o grupo de clientes OPC UA para validar a atualização visual e interativa do ambiente virtual.
