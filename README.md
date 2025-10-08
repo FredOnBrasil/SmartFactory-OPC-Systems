@@ -100,22 +100,22 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <h3 align="center"> Interface WPF Client </h3>
 
 <p align="center"> 
-  Idealização da primeira interface:  <br>
+  <b> Idealização da primeira interface: </b>  <br>
   imagem
 </p>
 
 <p align="center"> 
-  Segunda interface mais intuitiva: <br>
+  <b> Segunda interface mais intuitiva: </b> <br>
   imagem
 </p>
 
 <p align="center"> 
-  Tela com erro o a ser solucionado: <br>
+  <b> Tela com erro o a ser solucionado: </b> <br>
   DESCRIÇÃO DO ERRO. <br>
   imagem 
 </p>
 
 <p align="center">
-  Interface atual após a correção dos erros. <br>
+  <b> Interface atual após a correção dos erros.</b>  <br>
  imagem
 </p>
