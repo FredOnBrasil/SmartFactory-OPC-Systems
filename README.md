@@ -29,6 +29,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <h2> Squad 1: Documentação e Testes </h2>
 
+
 <p align="justify">
   Squad composto pelos membros: <b>Marilene Araujo e Vinícius Gomes.</b> <br>
   Esta Squad garante a qualidade, rastreabilidade e manutenibilidade de todo o projeto. <br>
@@ -77,7 +78,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <h3 align="center"> Esquema de Montagem do Aduino </h3>
 
-<p align="center"> Imagem </p>
+<p align="center"> <img src="imagens/arduino-esquema-montagem.jpeg" height="500" width="700" alt="Imagem da montagem do Arduino"> </p>
 
 <h3 align="center"> Montagem Protótipo </h3>
 
