@@ -74,7 +74,9 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - As ligações positivo e negativo (5V e GND) identificadas em vermelho e preto para padronização
 
 <b> Dificuldades </b>
-- Montagem e ligação dos sensores a protoboard/arduino sendo posição correta de conexão do sensor
+- Montagem e ligação de Leds a protoboard/arduino;
+- Montagem da ponte do Motor DC;
+- Identificar a informação da Umidade do solo no Arduino;
 
 <h3 align="center"> Esquema de Montagem do Aduino </h3>
 
