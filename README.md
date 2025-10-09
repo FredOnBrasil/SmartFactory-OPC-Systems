@@ -164,6 +164,15 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <hr>
 
+<h3 align="center"> Código WPF(C#) Back-End </h3>
+
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Back_End_01.jpeg" alt="Back-End - 01" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Back_End_02.jpeg" alt="Back-End - 02" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Back_End_03.jpeg" alt="Back-End - 03" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Back_End_04.jpeg" alt="Back-End - 04" /> </p>
+
+<hr>
+
 <h2> Squad 4: Gêmeo Digital </h2>
 
 <p align="justify">
