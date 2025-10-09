@@ -89,10 +89,10 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <h3 align="center"> Código do Arduino </h3>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Cod_Arduino_01.jpeg" alt="Código Servidor 01" /> </p> 
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Cod_Arduino_02.jpeg" alt="Código Servidor 02" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Cod_Arduino_03.jpeg" alt="Código Servidor 03" /> </p> 
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Cod_Arduino_04.jpeg" alt="Código Servidor 04" /> </p> 
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Cod_Arduino_01.jpeg" alt="Código Servidor 01" width="900" /> </p> 
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Cod_Arduino_02.jpeg" alt="Código Servidor 02" width="900" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Cod_Arduino_03.jpeg" alt="Código Servidor 03" width="900" /> </p> 
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Cod_Arduino_04.jpeg" alt="Código Servidor 04" width="900" /> </p> 
 
 <hr>
 
