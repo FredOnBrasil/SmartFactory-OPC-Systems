@@ -98,7 +98,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <hr>
 
 <h3 align="center"> Interface do Servidor </h3>
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Interface Servidor01" alt="Interface Servidor 01" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Interface_Servidor01.jpeg" alt="Interface Servidor 01" /> </p>
 
 
 <h3 align="center"> Código do Servidor </h3>
