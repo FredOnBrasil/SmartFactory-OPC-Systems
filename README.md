@@ -101,7 +101,9 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Servidor_ 02.jpeg" alt="Código Servidor 02" /> </p>
 <p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Servidor_ 03.jpeg" alt="Código Servidor 03" /> </p>
 <p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Servidor%20_04.jpeg" alt="Código Servidor 04" />
-</p
+</p>
+
+<hr>
 
 <h2> Squad 3: Clientes OPC UA </h2>
 
