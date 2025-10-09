@@ -130,8 +130,8 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <h3 align="center"> Interface WPF Client </h3>
 
 <p align="center"> 
-  Idealização da primeira interface: <<br>
-  imagem
+  Idealização da primeira interface: <br>
+  <p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Interface_WPF01.jpeg" alt="Interface WPF - 01" /> </p>
 </p>
 
 <p align="center"> 
