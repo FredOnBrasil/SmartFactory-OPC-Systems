@@ -127,12 +127,16 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - Desenvolver recursos de controle remoto para dispositivos (acionamento de motor, servo, relé) via OPC UA.
 - Realizar testes de desempenho e confiabilidade na comunicação cliente-servidor.
 
+<hr>
+
 <h3 align="center"> Interface WPF Client </h3>
 
 <p align="center"> 
   Idealização da primeira interface: <br>
   <p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Interface_WPF01.jpeg" alt="Interface WPF - 01" /> </p>
 </p>
+
+<hr>
 
 <h3 align="center"> Segunda interface mais intuitiva: </h3>
   
@@ -143,9 +147,12 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <hr>
 
+<h3 align="center"> Telas de Erros: </h3>
+
 <p align="center"> 
  Tela com erro o a ser solucionado: <br>
   DESCRIÇÃO DO ERRO. <br>
+  
   imagem 
 </p>
 
