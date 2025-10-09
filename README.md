@@ -3,17 +3,16 @@
 
 | Categoria | Campo | Informação |
 | :--- | :--- | :--- |
-| **Abertura** | Data de Abertura | 25/09/2025 |
-| **Abertura** | Responsável pela Abertura | Bruno Maia |
-| **Equipe** | Analista de Negócio | Bruno Maia |
-| **Equipe** | Analista de Sistema | (Não Preenchido) |
-| **Geral** | Objetivo | Manutenção |
+| **Abertura** | Data de Abertura | 06/10/2025 |
+| **Abertura** | Responsável pela Abertura | Frederico Martins Aguiar |
+| **Equipe** | Analista de Negócio | Frederico |
+| **Equipe** | Analista de Sistema | Turno Noite |
+| **Geral** | Objetivo | Preenchimento |
 | **Geral** | Prioridade | **Alta** |
-| **Cliente** | Cliente | Prefeitura Municipal de Itaboraí |
-| **Sistema** | Sistema | Portal Tributário |
-| **Sistema** | Versão Atual | 2.88 |
-| **Técnico** | Instância | 192.168.254.40 |
-| **Técnico** | Banco de Dados | lb_Divida2021 |
+| **Cliente** | Cliente | Smart Factory |
+| **Sistema** | Sistema | Mensageria OPC UA |
+| **Sistema** | Versão Atual | 1.0 |
+| **Técnico** | IP Servidor| 192.168.254.40 |
   
   <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/00%20-%20Logo%20Smart%20Factory.png" height="500" width="700"/> 
 </p>
