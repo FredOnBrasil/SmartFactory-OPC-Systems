@@ -77,9 +77,13 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - Montagem da ponte do Motor DC;
 - Identificar a informação da Umidade do solo no Arduino;
 
+ <hr>
+
 <h3 align="center"> Esquema de Montagem do Aduino </h3>
 
 <p align="center">DIAGRAMA</p>
+
+<hr>
 
 <h3 align="center"> Montagem Protótipo </h3>
 
@@ -92,6 +96,8 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <p align="center">
   <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Mont_Prototipo03.jpeg" alt="Montagem Prototipo 03.jpeg" width="600" height="600"/>
 </p> 
+
+<hr>
 
 <h3 align="center"> Código do Arduino </h3>
 
@@ -205,3 +211,6 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - Implementar um modo de simulação offline, permitindo testar o sistema mesmo sem hardware físico.
 
 - Colaborar com o grupo de clientes OPC UA para validar a atualização visual e interativa do ambiente virtual.
+
+  <hr>
+  
