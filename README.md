@@ -84,7 +84,9 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <h3 align="center"> Montagem Protótipo </h3>
 
-<p align="center"> imagem </p></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Mont_Prototipo01.jpeg" alt="Montagem Prototipo 01.jpeg" /> </p> 
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Mont_Prototipo02.jpeg" alt="Montagem Prototipo 02.jpeg" /> </p> 
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Mont_Prototipo03.jpeg" alt="Montagem Prototipo 03.jpeg" /> </p> 
 
 <h3 align="center"> Código do Arduino </h3>
 
