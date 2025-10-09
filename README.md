@@ -92,10 +92,10 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <h3 align="center"> Código do Arduino Versão Final - V.2.0 </h3>
 
-<p align="center"> [Coódigo arduino](https://github.com/MARILENE-384076/SmartFactory-OPC-Systems/blob/main/Arquivos/Squad%2002/Imagens/Cod_Arduino_01.jpeg) </p>
-<p align="center"> [Coódigo arduino](https://github.com/MARILENE-384076/SmartFactory-OPC-Systems/blob/main/Arquivos/Squad%2002/Imagens/Cod_Arduino_02.jpeg) </p>
-<p align="center"> [Coódigo arduino](https://github.com/MARILENE-384076/SmartFactory-OPC-Systems/blob/main/Arquivos/Squad%2002/Imagens/Cod_Arduino_03.jpeg) </p>
-<p align="center"> [Coódigo arduino](https://github.com/MARILENE-384076/SmartFactory-OPC-Systems/blob/main/Arquivos/Squad%2002/Imagens/Cod_Arduino_04.jpeg) </p>
+<p align="center"> ![Código Arduino 01](./Arquivos/Esquadrão 02/Imagens/Cod_Arduino_01.jpeg) </p>
+<p align="center"> ![Código Arduino 02](./Arquivos/Esquadrão 02/Imagens/Cod_Arduino_02.jpeg) </p>
+<p align="center"> ![Código Arduino 03](./Arquivos/Esquadrão 02/Imagens/Cod_Arduino_03.jpeg) </p>
+<p align="center"> ![Código Arduino 04](./Arquivos/Esquadrão 02/Imagens/Cod_Arduino_04.jpeg) </p>
 
 
 <hr>
