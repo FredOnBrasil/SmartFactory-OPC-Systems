@@ -100,7 +100,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <p align="center"> ![Código Servidor 01](https://github.com/MARILENE-384076/SmartFactory-OPC-Systems/blob/main/Arquivos/Squad%2002/Imagens/Servidor%20_01.jpeg) </p>
 <p align="center"> ![Código Servidor 02](https://github.com/MARILENE-384076/SmartFactory-OPC-Systems/blob/main/Arquivos/Squad%2002/Imagens/Servidor%20_02.jpeg) </p>
 <p align="center"> ![Código Servidor 03](https://github.com/MARILENE-384076/SmartFactory-OPC-Systems/blob/main/Arquivos/Squad%2002/Imagens/Servidor%20_03.jpeg) </p>
-<p align="center"> ![Código Servidor 04](Arquivos/Squad 02/Imagens/Servidor _04.jpeg) </p>
+<p align="center"> ![Código Servidor 01](https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Servidor%20_04.jpeg) </p>>
 
 <hr>
 
