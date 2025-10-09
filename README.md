@@ -1,6 +1,19 @@
-
 <h1 align="center"> Documentação Smart Factory: OPC-Systems <br> Software House industrial. </h1>
 <p align="center"> 
+
+| Categoria | Campo | Informação |
+| :--- | :--- | :--- |
+| **Abertura** | Data de Abertura | 25/09/2025 |
+| **Abertura** | Responsável pela Abertura | Bruno Maia |
+| **Equipe** | Analista de Negócio | Bruno Maia |
+| **Equipe** | Analista de Sistema | (Não Preenchido) |
+| **Geral** | Objetivo | Manutenção |
+| **Geral** | Prioridade | **Alta** |
+| **Cliente** | Cliente | Prefeitura Municipal de Itaboraí |
+| **Sistema** | Sistema | Portal Tributário |
+| **Sistema** | Versão Atual | 2.88 |
+| **Técnico** | Instância | 192.168.254.40 |
+| **Técnico** | Banco de Dados | lb_Divida2021 |
   
   <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/00%20-%20Logo%20Smart%20Factory.png" height="500" width="700"/> 
 </p>
