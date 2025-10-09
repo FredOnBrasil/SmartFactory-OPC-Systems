@@ -134,11 +134,14 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
   <p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Interface_WPF01.jpeg" alt="Interface WPF - 01" /> </p>
 </p>
 
+<h3 align="center"> Segunda interface mais intuitiva: </h3>
+  
 <p align="center"> 
-  Segunda interface mais intuitiva: <br>
   <p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Interface_WPF_V02.jpeg" alt="Interface WPF - 02" /> </p>
   <p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Interface_WPF_V02.1.jpeg" alt="Interface WPF - 02" /> </p>
 </p>
+
+<hr>
 
 <p align="center"> 
  Tela com erro o a ser solucionado: <br>
@@ -150,6 +153,14 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
  Interface atual após a correção dos erros. <br>
  imagem
 </p>
+
+<hr>
+
+<h3 align="center"> Código WPF(C#) Front-End </h3>
+
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Front_End_01.jpeg" alt="Front-End - 01" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Front_End_02.jpeg" alt="Front-End - 02" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Front_End_03.jpeg" alt="Front-End - 03" /> </p>
 
 <hr>
 
