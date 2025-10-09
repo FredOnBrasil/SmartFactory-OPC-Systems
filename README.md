@@ -1,19 +1,6 @@
 <h1 align="center"> Documentação Smart Factory: OPC-Systems <br> Software House industrial. </h1>
 <p align="center"> 
 
-| Categoria | Campo | Informação |
-| :--- | :--- | :--- |
-| **Abertura** | Data de Abertura | 06/10/2025 |
-| **Abertura** | Responsável pela Abertura | Frederico Martins Aguiar |
-| **Equipe** | Analista de Negócio | Frederico |
-| **Equipe** | Analista de Sistema | Turno Noite |
-| **Geral** | Objetivo | Preenchimento |
-| **Geral** | Prioridade | **Alta** |
-| **Cliente** | Cliente | Smart Factory |
-| **Sistema** | Sistema | Mensageria OPC UA |
-| **Sistema** | Versão Atual | 1.0 |
-| **Técnico** | IP Servidor| 192.168.254.40 |
-  
   <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/00%20-%20Logo%20Smart%20Factory.png" height="500" width="700"/> 
 </p>
 
