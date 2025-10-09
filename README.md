@@ -86,12 +86,6 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <p align="center"> imagem </p></p>
 
-<h3 align="center"> Código do Arduino Versão Inicial - V.1.0 </h3>
-
-<p align="center"> Imagem </p>
-
-<h3 align="center"> Código do Arduino Versão Final - V.2.0 </h3>
-
 <h3 align="center"> Código do Arduino </h3>
 
 <p align="center"> ![Código Arduino 01](./Arquivos/Esquadrão 02/Imagens/Cod_Arduino_01.jpeg) </p>
@@ -106,7 +100,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <p align="center"> ![Código Servidor 01](https://github.com/MARILENE-384076/SmartFactory-OPC-Systems/blob/main/Arquivos/Squad%2002/Imagens/Servidor%20_01.jpeg) </p>
 <p align="center"> ![Código Servidor 02](https://github.com/MARILENE-384076/SmartFactory-OPC-Systems/blob/main/Arquivos/Squad%2002/Imagens/Servidor%20_02.jpeg) </p>
 <p align="center"> ![Código Servidor 03](https://github.com/MARILENE-384076/SmartFactory-OPC-Systems/blob/main/Arquivos/Squad%2002/Imagens/Servidor%20_03.jpeg) </p>
-<p align="center"> ![Código Servidor 04](https://github.com/MARILENE-384076/SmartFactory-OPC-Systems/blob/main/Arquivos/Squad%2002/Imagens/Servidor%20_04.jpeg) </p>
+<p align="center"> ![Código Servidor 04](Arquivos/Squad 02/Imagens/Servidor _04.jpeg) </p>
 
 <hr>
 
