@@ -136,7 +136,8 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <p align="center"> 
   Segunda interface mais intuitiva: <br>
-  imagem
+  <p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Interface_WPF_V02.jpeg" alt="Interface WPF - 02" /> </p>
+  <p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Interface_WPF_V02.1.jpeg" alt="Interface WPF - 02" /> </p>
 </p>
 
 <p align="center"> 
