@@ -119,8 +119,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Servidor_ 01.jpeg" alt="Código Servidor 01" width="900" /> </p>
 <p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Servidor_ 02.jpeg" alt="Código Servidor 02" width="900" /> </p>
 <p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Servidor_ 03.jpeg" alt="Código Servidor 03" width="900" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Servidor%20_04.jpeg" alt="Código Servidor 04" width="900" />
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Servidor%20_04.jpeg" alt="Código Servidor 04" width="900" /> </p>
 
 <hr>
 
@@ -176,18 +175,18 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <h3 align="center"> Código WPF(C#) Front-End </h3>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Front_End_01.jpeg" alt="Front-End - 01" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Front_End_02.jpeg" alt="Front-End - 02" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Front_End_03.jpeg" alt="Front-End - 03" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Front_End_01.jpeg" alt="Front-End - 01" width="900" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Front_End_02.jpeg" alt="Front-End - 02" width="900" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Front_End_03.jpeg" alt="Front-End - 03" width="900" /> </p>
 
 <hr>
 
 <h3 align="center"> Código WPF(C#) Back-End </h3>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Back_End_01.jpeg" alt="Back-End - 01" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Back_End_02.jpeg" alt="Back-End - 02" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Back_End_03.jpeg" alt="Back-End - 03" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Back_End_04.jpeg" alt="Back-End - 04" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Back_End_01.jpeg" alt="Back-End - 01" width="900" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Back_End_02.jpeg" alt="Back-End - 02" width="900" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Back_End_03.jpeg" alt="Back-End - 03" width="900" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Back_End_04.jpeg" alt="Back-End - 04" width="900" /> </p>
 
 <hr>
 
