@@ -79,7 +79,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
  <hr>
 
-<h3 align="center"> Esquema de Montagem do Aduino </h3>
+<h3 align="center"> Esquema de Montagem do Arduino </h3>
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Diagrama_Arduino.jpeg" alt="Diagrama_Arduino.jpeg" width="600" height="600"
