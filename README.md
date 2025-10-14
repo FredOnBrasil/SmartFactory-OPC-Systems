@@ -113,7 +113,8 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <h3 align="center"> Interface do Servidor </h3>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Interface_Servidor01.jpeg" alt="Interface Servidor 01" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Interface_Servidor01.jpeg" alt="Interface Servidor 01" width="600"    height="600"/> 
+</p>
 
 <hr>
 
@@ -156,22 +157,6 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <p align="center"> 
   <p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Interface_WPF_V02.jpeg" alt="Interface WPF - 02" /> </p>
   <p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Interface_WPF_V02.1.jpeg" alt="Interface WPF - 02" /> </p>
-</p>
-
-<hr>
-
-<h3 align="center"> Telas de Erros: </h3>
-
-<p align="center"> 
- Tela com erro o a ser solucionado: <br>
-  DESCRIÇÃO DO ERRO. <br>
-  
-  imagem 
-</p>
-
-<p align="center">
- Interface atual após a correção dos erros. <br>
- imagem
 </p>
 
 <hr>
