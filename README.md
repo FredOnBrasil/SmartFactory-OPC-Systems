@@ -214,4 +214,33 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 - Colaborar com o grupo de clientes OPC UA para validar a atualização visual e interativa do ambiente virtual.
 
   <hr>
-  
+
+
+  <h2 align="center"> Sensores Utilizados </h2>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th> :computer: Sensor </th>
+        <th> ✅ Nome do Sensor </th>
+        <th> :bulb: Descrição </th>
+      </tr>
+    </thead>
+    <tbody align="center">
+      <tr>
+        <td> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/01%20-%20Arduino.jpg" height="300" width="300" /> </td>
+        <td><b> Arduíno UNO </b></td>
+        <td> A placa microcontroladora (o "cérebro" do projeto) usada para carregar e executar o código que controla os sensores e atuadores do circuito. </td>
+      </tr>
+      <tr>
+        <td> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/02%20-%20Sensor%20Ultrassonico%20HC-SR04.jpg" height="350" width="300"/> </td>
+        <td><b> HC-SR04 Ultrassônico </b></td>
+        <td> O sensor mede o crescimento da planta por meio de ondas ultrassônicas, calculando o tempo de retorno do pulso sonoro refletido pela superfície da planta para determinar a distância e acompanhar                sua variação ao longo do tempo.
+        </td>
+      </tr>
+      <tr>
+        <td> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/03%20-%20Sensor%20de%20Chuva%20e%20Umidade%20HW-028.jpg" height="300" width="300"/> </td>
+        <td><b> Sensor de Umidade do Solo - Higrômetro </b></td>
+        <td> Mede a umidade do solo pela variação da condutividade elétrica entre as hastes, permitindo avaliar a irrigação e acionar o monitoramento automático das plantas.
+ </td>
