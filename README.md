@@ -280,7 +280,8 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
         <td> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Leds.jpg" height="250" width="250"/> </td>
         <td><b> Leds </b></td>
         <td> Os LEDs fornecem um feedback visual imediato sobre a umidade do solo, sinalizando se o sistema de irrigação (que liga em 20%) está ativo e se a condição do solo é adequada ou crítica.
-             ≥20% - Nivel de umidade Adequada e <20% - Nivel de umidade crítico (Solo necessitando de Água).
+            - ≥20% - Nivel de umidade Adequada;
+            - <20% - Nivel de umidade crítico (Solo necessitando de Água).
 </td>
       </tr>
       <tr>
