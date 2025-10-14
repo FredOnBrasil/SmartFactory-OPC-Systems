@@ -240,7 +240,8 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
         </td>
       </tr>
       <tr>
-        <td> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/03%20-%20Sensor%20de%20Chuva%20e%20Umidade%20HW-028.jpg" height="300" width="300"/> </td>
+        <td> 
+          <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Sensor_Higrometro.jpeg" alt="Sensor_Higrometro.jpeg" height="300" width="300"/>          </td>
         <td><b> Sensor de Umidade do Solo - Higrômetro </b></td>
         <td> Mede a umidade do solo pela variação da condutividade elétrica entre as hastes, permitindo avaliar a irrigação e acionar o monitoramento automático das plantas.
  </td>
