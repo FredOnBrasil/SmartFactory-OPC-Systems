@@ -142,6 +142,32 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <hr>
 
+<h2 align="center">Roteiro de Desenvolvimento Back-End e Interface (Squad 3)</h2>
+
+<p align="center">
+    O desenvolvimento do código para o **Simulador Smart Factory** (Back-End e Cliente WPF) seguiu o roteiro estratégico detalhado abaixo.
+</p>
+
+<p align="center">
+    <strong>Acesse a Documentação repassada pelos membros do Grupo 3 :</strong>
+    <br>
+    <a href="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6" target="_blank" style="text-decoration: none; display: inline-block; padding: 10px 20px; margin-top: 10px; border-radius: 5px; background-color: #007bff; color: white; font-weight: bold;">
+        <span style="font-size: 1.2em;">📖</span> Documentação Grupo 3 (Clique para ver)
+    </a>
+</p>
+
+<hr>
+
+<h3 align="center">Desenvolvimento Back-End (Squad 3)</h3>
+
+<p align="center">
+    </p>
+
+<h3 align="center">Interface do Cliente WPF</h3>
+
+<p align="center">
+    </p>
+
 <h3 align="center"> Interface WPF Client </h3>
 
 <p align="center"> 
