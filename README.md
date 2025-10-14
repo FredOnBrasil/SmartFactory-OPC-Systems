@@ -151,7 +151,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 <p align="center">
     <strong>Acesse a Documentação repassada pelos membros do Grupo 3 :</strong>
     <br>
-    <a href="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6" target="_blank" style="text-decoration: none; display: inline-block; padding: 10px 20px; margin-top: 10px; border-radius: 5px; background-color: #007bff; color: white; font-weight: bold;">
+    <a href="https://github.com/MARILENE-384076/SmartFactory-OPC-Systems/blob/main/Arquivos/Squad%2003/squard%2003.docx" target="_blank" style="text-decoration: none; display: inline-block; padding: 10px 20px; margin-top: 10px; border-radius: 5px; background-color: #007bff; color: white; font-weight: bold;">
         <span style="font-size: 1.2em;">📖</span> Documentação Grupo 3 (Clique para ver)
     </a>
 </p>
