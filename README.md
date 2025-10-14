@@ -120,9 +120,9 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <h3 align="center"> Código do Servidor </h3>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Cod_Servidor_01.jpeg" alt="Código Servidor 01" width="900" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Cod_Servidor_02.jpeg" alt="Código Servidor 02" width="900" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Cod_Servidor_03.jpeg" alt="Código Servidor 03" width="900" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Cod_Servidor_1.jpeg" alt="Código Servidor 01" width="900" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Cod_Servidor_2.jpeg" alt="Código Servidor 02" width="900" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Cod_Servidor_3.jpeg" alt="Código Servidor 03" width="900" /> </p>
 <p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Servidor%20_04.jpeg" alt="Código Servidor 04" width="900" /> </p>
 
 <hr>
