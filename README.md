@@ -251,8 +251,8 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
  </td>
       </tr>
       <tr>
-        <td> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/09%20-%20Resistores.webp" height="250" width="250"/> </td>
-        <td><b> Resistor </b></td>
+        <td> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Leds.jpg" height="250" width="250"/> </td>
+        <td><b> Leds </b></td>
         <td> Componente eletrônico passivo usado para controlar e limitar o fluxo de corrente elétrica no circuito, protegendo outros componentes. </td>
       </tr>
       <tr>
