@@ -230,3 +230,38 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
         <td><b> Sensor de Umidade do Solo - Higrômetro </b></td>
         <td> Mede a umidade do solo pela variação da condutividade elétrica entre as hastes, permitindo avaliar a irrigação e acionar o monitoramento automático das plantas.
  </td>
+        
+<hr>
+ <h2 align="center"> Componentes Complementares </h2>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th> :computer: Componente </th>
+        <th> :file_folder: Nome </th>
+        <th> :bulb: Descrição </th>
+      </tr>
+    </thead>
+    <tbody align="center">
+      <tr>
+        <td> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/08%20-%20Protoboard.jpg" height="250" width="250"/></td>
+        <td><b> Protoboard </b></td>
+        <td> Uma placa de montagem sem solda, essencial para montar e testar circuitos eletrônicos temporariamente.
+ </td>
+      </tr>
+      <tr>
+        <td> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/09%20-%20Resistores.webp" height="250" width="250"/> </td>
+        <td><b> Resistor </b></td>
+        <td> Componente eletrônico passivo usado para controlar e limitar o fluxo de corrente elétrica no circuito, protegendo outros componentes. </td>
+      </tr>
+      <tr>
+        <td> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/10%20-%20Jumpers%20de%20Conex%C3%A3o.jpg" height="250" width="250"/></td>
+        <td><b> Jumpers de Conexão </b></td>
+        <td> Fios com conectores nas pontas, utilizados para realizar as conexões elétricas entre o Arduino, a protoboard e os componentes. </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<hr>
