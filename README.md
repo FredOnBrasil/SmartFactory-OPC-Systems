@@ -113,24 +113,32 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <h3 align="center"> Interface do Servidor </h3>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Interface_Servidor01.jpeg" alt="Interface Servidor 01" width="600"    height="600"/> 
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Interface_Servidor01.jpeg" alt="Interface Servidor 01"                  width="600" height="600"/> 
 </p>
 
 <hr>
 
 <h3 align="center"> Código do Servidor </h3>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Cod_Servidor_1.jpeg" alt="Código Servidor 01" width="900" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Cod_Servidor_2.jpeg" alt="Código Servidor 02" width="900" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Cod_Servidor_3.jpeg" alt="Código Servidor 03" width="900" /> </p>
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Cod_Servidor_1.jpeg" alt="Código Servidor 01" width="900" />
+</p>
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Cod_Servidor_2.jpeg" alt="Código Servidor 02" width="900" /> 
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Cod_Servidor_3.jpeg" alt="Código Servidor 03" width="900" /> 
+</p>
 
 <hr>
 
 <h2> Squad 3: Clientes OPC UA </h2>
 
 <p align="justify">
+  
   Squad composto pelos membros: <b>Diulie Batista, Yhan, Nicolas Oliveira, Bruno Maia.</b> <br>
-  Este Squad tem a responsabilidade de desenvolver as aplicações Cliente WPF (desktop) independentes, que se conectam ao Servidor OPC UA, oferecendo visualização em tempo real dos sensores e permitindo o envio de comandos remotos de controle para os atuadores. <br>
+  Este Squad tem a responsabilidade de desenvolver as aplicações Cliente WPF (desktop) independentes, que se conectam ao Servidor OPC UA, oferecendo visualização em tempo real dos        sensores e permitindo o envio de comandos remotos de controle para os atuadores. <br>
   
 </p>
 
@@ -149,6 +157,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 </p>
 
 <p align="center">
+  
     <strong>Acesse a Documentação repassada pelos membros do Grupo 3 :</strong>
     <br>
     <a href="https://github.com/MARILENE-384076/SmartFactory-OPC-Systems/blob/main/Arquivos/Squad%2003/squard%2003.docx" target="_blank" style="text-decoration: none; display: inline-block; padding: 10px 20px; margin-top: 10px; border-radius: 5px; background-color: #007bff; color: white; font-weight: bold;">
@@ -158,76 +167,79 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <hr>
 
-<h3 align="center">Desenvolvimento Back-End (Squad 3)</h3>
-
-<p align="center">
-    </p>
-
-<h3 align="center">Interface do Cliente WPF</h3>
-
-<p align="center">
-    </p>
-
 <h3 align="center"> Interface WPF Client </h3>
 
 <p align="center"> 
-  Idealização da primeira interface: <br>
-  <p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Interface_WPF01.jpeg" alt="Interface WPF - 01" /> </p>
-</p>
+  
+  Idealização da primeira interface: <br>  
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Interface_WPF01.jpeg" alt="Interface WPF - 01" /> </p>
+  </p>
 
 <hr>
 
 <h3 align="center"> Segunda interface mais intuitiva: </h3>
-  
-<p align="center"> 
-  <p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Interface_WPF_V02.jpeg" alt="Interface WPF - 02" /> </p>
-  <p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Interface_WPF_V02.1.jpeg" alt="Interface WPF - 02" /> </p>
-</p>
+ 
+  <p align="center"> 
+    <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Interface_WPF_V02.jpeg" alt="Interface WPF - 02" /> 
+  </p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Interface_WPF_V02.1.jpeg" alt="Interface WPF - 02" /> 
+  </p>
 
 <hr>
 
 <h3 align="center"> Código WPF(C#) Front-End </h3>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Front_End_01.jpeg" alt="Front-End - 01" width="900" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Front_End_02.jpeg" alt="Front-End - 02" width="900" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Front_End_03.jpeg" alt="Front-End - 03" width="900" /> </p>
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Front_End_01.jpeg" alt="Front-End - 01" width="900" /> 
+</p>
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Front_End_02.jpeg" alt="Front-End - 02" width="900" /> 
+</p>
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Front_End_03.jpeg" alt="Front-End - 03" width="900" />
+</p>
 
 <hr>
 
 <h3 align="center"> Código WPF(C#) Back-End </h3>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Back_End_01.jpeg" alt="Back-End - 01" width="900" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Back_End_02.jpeg" alt="Back-End - 02" width="900" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Back_End_03.jpeg" alt="Back-End - 03" width="900" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Back_End_04.jpeg" alt="Back-End - 04" width="900" /> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Back_End_01.jpeg" alt="Back-End - 01" width="900" /> 
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Back_End_02.jpeg" alt="Back-End - 02" width="900" />
+</p>
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Back_End_03.jpeg" alt="Back-End - 03" width="900" />
+</p>
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2003/Imagens/Back_End_04.jpeg" alt="Back-End - 04" width="900" /> 
+</p>
 
 <hr>
 
 <h2> Squad 4: Gêmeo Digital </h2>
 
 <p align="justify">
+  
   Squad composto pelos membros: <b>Lucas Aquino, Miguel Duarte, Erick.</b> <br>
   Este Squad tem a responsabilidade de desenvolver as aplicações desktop independentes, essenciais para a visualização e controle de cada variável. <br>
+  
 </p>
 
 - Desenvolver um gêmeo digital (representação virtual da planta piloto), que reproduza em tempo real o comportamento dos sensores e atuadores.
-
 - Criar uma interface 3D ou painel gráfico dinâmico que mostre:
-
   - Variação dos sensores.
-
   - Estado dos atuadores (ligado/desligado, posição, etc.).
-
 - Integrar o gêmeo digital ao Servidor OPC UA para sincronizar dados reais e simulados.
-
 - Implementar um modo de simulação offline, permitindo testar o sistema mesmo sem hardware físico.
-
 - Colaborar com o grupo de clientes OPC UA para validar a atualização visual e interativa do ambiente virtual.
+  
+<hr>
 
-  <hr>
-
-
-  <h2 align="center"> Sensores Utilizados </h2>
+<h2 align="center"> Sensores Utilizados </h2>
 
 <div align="center">
   <table>
