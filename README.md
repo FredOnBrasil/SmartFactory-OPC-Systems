@@ -255,7 +255,8 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
           <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Sensor_Higrometro.jpg" alt="Sensor_Higrometro.jpg" height="300" width="300"/>          </td>
         <td><b> Sensor de Umidade do Solo - Higrômetro </b></td>
         <td> Mede a umidade do solo pela variação da condutividade elétrica entre as hastes, permitindo avaliar a irrigação e acionar o monitoramento automático das plantas.
- </td>
+     </td>
+  </tr>
         
 <hr>
  <h2 align="center"> Componentes Complementares </h2>
