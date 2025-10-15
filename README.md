@@ -264,7 +264,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
       </tr>
       <tr>
         <td> 
-          <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Sensor_Higrometro.jpg" alt="Sensor_Higrometro.jpg" height="300" width="300"/>          </td>
+          <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Sensor_Higrometro.jpg" alt="Sensor_Higrometro.jpg" height="300" width="300"/> </td>
         <td><b> Sensor de Umidade do Solo - Higrômetro </b></td>
         <td> Mede a umidade do solo pela variação da condutividade elétrica entre as hastes, permitindo avaliar a irrigação e acionar o monitoramento automático das plantas.
      </td>
@@ -274,42 +274,20 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
         <td><b> Ponte - HL298N </b></td>
         <td> Responsável por controlar o motor DC através da bateria. </td>
       </tr>
-    </tbody>
-  </table>
-</div>
-        
-<hr>
-
- <h2 align="center"> Componentes Complementares </h2>
-
-<div align="center">
-  <table>
-    <thead>
       <tr>
-        <th> :computer: Componente </th>
-        <th> :file_folder: Nome </th>
-        <th> :bulb: Descrição </th>
-      </tr>
-    </thead>
-    <tbody align="center">
-      <tr>
-        <td> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/08%20-%20Protoboard.jpg" height="250" width="250"/></td>
-        <td><b> Protoboard </b></td>
-        <td> Uma placa de montagem sem solda, essencial para montar e testar circuitos eletrônicos temporariamente.
- </td>
+        <td> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Ponte_Hl298N.jpeg" alt="Ponte_HL298N.jpg" height="300" width="300"/></td>
+        <td><b> Servo Motor </b></td>
+        <td> Atua como irrigador do solo para evolução da planta na estufa. </td>
       </tr>
       <tr>
-        <td> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Leds.jpg" height="250" width="200"/> </td>
-        <td><b> Leds </b></td>
-        <td> Os LEDs fornecem um feedback visual imediato sobre a umidade do solo, sinalizando se o sistema de irrigação (que liga em 20%) está ativo e se a condição do solo é adequada ou crítica. <br>
-             ≥20% - Nivel de umidade Adequada;  <br>
-             <20% - Nivel de umidade crítico (solo necessitando de irrigação).
-</td>
+        <td> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Relé.jpeg" alt="Relé.jpg" height="300" width="300"/></td>
+        <td><b> Relé </b></td>
+        <td> Controla a Luz dentro da estufa. </td>
       </tr>
       <tr>
-        <td> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/10%20-%20Jumpers%20de%20Conex%C3%A3o.jpg" height="250" width="250"/></td>
-        <td><b> Jumpers de Conexão </b></td>
-        <td> Fios com conectores nas pontas, utilizados para realizar as conexões elétricas entre o Arduino, a protoboard e os componentes. </td>
+        <td> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Ponte_Hl298N.jpeg" alt="Ponte_HL298N.jpg" height="300" width="300"/></td>
+        <td><b> Motor DC</b></td>
+        <td> Responsável por ventilar o ambiente </td>
       </tr>
     </tbody>
   </table>
