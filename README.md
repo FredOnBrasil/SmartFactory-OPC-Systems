@@ -259,7 +259,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
       <tr>
         <td> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/02%20-%20Sensor%20Ultrassonico%20HC-SR04.jpg" height="350" width="300"/> </td>
         <td><b> HC-SR04 Ultrassônico </b></td>
-        <td> O sensor mede o crescimento da planta por meio de ondas ultrassônicas, calculando o tempo de retorno do pulso sonoro refletido pela superfície da planta para determinar a distância e acompanhar                sua variação ao longo do tempo.
+        <td> O sensor mede o crescimento da planta por meio de ondas ultrassônicas, calculando o tempo de retorno do pulso sonoro refletido pela superfície da planta para determinar a distância e acompanhar sua variação ao longo do tempo.
         </td>
       </tr>
       <tr>
