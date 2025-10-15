@@ -258,9 +258,9 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
      </td>
   </tr>
       <tr>
-        <td> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/07%20-%20Sensor%20LDR.jpg" height="300" width="300"/></td>
-        <td><b> LDR (Light Dependent Resistor) </b></td>
-        <td> Resistor cuja resistência elétrica varia de acordo com a intensidade da luz; usado para medir luminosidade. </td>
+        <td> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Ponte_Hl298N.jpeg" alt="Ponte_HL298N.jpg" height="300" width="300"/></td>
+        <td><b> Ponte - HL298N </b></td>
+        <td> Responsável por controlar o motor DC através da bateria. </td>
       </tr>
     </tbody>
   </table>
