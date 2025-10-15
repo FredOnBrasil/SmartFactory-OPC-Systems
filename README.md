@@ -257,8 +257,17 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
         <td> Mede a umidade do solo pela variação da condutividade elétrica entre as hastes, permitindo avaliar a irrigação e acionar o monitoramento automático das plantas.
      </td>
   </tr>
+      <tr>
+        <td> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/07%20-%20Sensor%20LDR.jpg" height="300" width="300"/></td>
+        <td><b> LDR (Light Dependent Resistor) </b></td>
+        <td> Resistor cuja resistência elétrica varia de acordo com a intensidade da luz; usado para medir luminosidade. </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
         
 <hr>
+
  <h2 align="center"> Componentes Complementares </h2>
 
 <div align="center">
