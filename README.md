@@ -336,3 +336,10 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 
 <hr>
 
+<hr>
+
+<h2 align="center"> Fases de Testes e Planejamentos dos Squads </h2>
+
+<p align="center"> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Documentos%20Smart%20Factory/Squads/IMG-20251001-WA0009.jpg" height="500" width="500"/> </p>
+
+<hr>
