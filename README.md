@@ -274,7 +274,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
       <tr>
         <td> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Servo_Motor.jpeg" alt="Servo_Motor.jpg" height="300" width="300"/></td>
         <td><b> Servo Motor </b></td>
-        <td> Atua como irrigador do solo para evolução da planta na estufa. </td>
+        <td> Atua na irrigação do solo para evolução da planta na estufa. </td>
       </tr>
       <tr>
         <td> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Relé.jpeg" alt="Relé.jpg" height="300" width="300"/></td>
@@ -296,3 +296,38 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
 </div>
 
 <hr>
+
+<h2 align="center"> Componentes Complementares </h2>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th> :computer: Componente </th>
+        <th> :file_folder: Nome </th>
+        <th> :bulb: Descrição </th>
+      </tr>
+    </thead>
+    <tbody align="center">
+      <tr>
+        <td> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/08%20-%20Protoboard.jpg" height="250" width="250"/></td>
+        <td><b> Protoboard </b></td>
+        <td> Uma placa de montagem sem solda, essencial para montar e testar circuitos eletrônicos temporariamente.
+ </td>
+      </tr>
+      <tr>
+        <td> <<img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Bateria.jpeg" alt="Bateria.jpg"                               height="300" width="300"/> </td>
+        <td><b> Bateria </b></td>
+        <td> Responsável por alimentar a ponte. </td>
+      </tr>
+      <tr>
+       <td> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/10%20-%20Jumpers%20de%20Conex%C3%A3o.jpg" height="300" width="300"/> </td>
+        <td><b> Jumpers de Conexão </b></td>
+        <td> Fios com conectores nas pontas, utilizados para realizar as conexões elétricas entre o Arduino, a protoboard e os componentes. </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<hr>
+
