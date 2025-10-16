@@ -321,7 +321,7 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
         <td> Responsável por alimentar a ponte. </td>
       </tr>
       <tr>
-        <td> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Leds.jpeg" alt="Leds.jpg"                                               height="300" width="300"/> </td>
+        <td> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Leds.jpg" alt="Leds.jpg"                                               height="300" width="300"/> </td>
         <td><b> Leds </b></td>
         <td> Sinalizam visualmente a umidade do solo. </td>
       </tr>
