@@ -257,37 +257,39 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
         <td> A placa microcontroladora (o "cérebro" do projeto) usada para carregar e executar o código que controla os sensores e atuadores do circuito. </td>
       </tr>
       <tr>
-        <td> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/02%20-%20Sensor%20Ultrassonico%20HC-SR04.jpg" height="350" width="300"/> </td>
+        <td> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/02%20-%20Sensor%20Ultrassonico%20HC-SR04.jpg" height="300"                              width="300"/> 
+        </td>
         <td><b> HC-SR04 Ultrassônico </b></td>
-        <td> O sensor mede o crescimento da planta por meio de ondas ultrassônicas, calculando o tempo de retorno do pulso sonoro refletido pela superfície da planta para determinar a distância e acompanhar sua variação ao longo do tempo.
+        <td> O sensor mede o crescimento da planta por meio de ondas ultrassônicas, calculando o tempo de retorno do pulso sonoro refletido pela superfície da planta para determinar a               distância e acompanhar sua variação ao longo do tempo.
         </td>
       </tr>
       <tr>
         <td> 
-          <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Sensor_Higrometro.jpg" alt="Sensor_Higrometro.jpg" height="300" width="300"/> </td>
+          <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Sensor_Higrometro.jpg" alt="Sensor_Higrometro.jpg"                      height="300" width="300"/> 
+        </td>
         <td><b> Sensor de Umidade do Solo - Higrômetro </b></td>
         <td> Mede a umidade do solo pela variação da condutividade elétrica entre as hastes, permitindo avaliar a irrigação e acionar o monitoramento automático das plantas.
      </td>
-  </tr>
+  </tr>     
       <tr>
-        <td> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Ponte_Hl298N.jpeg" alt="Ponte_HL298N.jpg" height="300" width="300"/></td>
-        <td><b> Ponte - HL298N </b></td>
-        <td> Responsável por controlar o motor DC através da bateria. </td>
-      </tr>
-      <tr>
-        <td> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Ponte_Hl298N.jpeg" alt="Ponte_HL298N.jpg" height="300" width="300"/></td>
+        <td> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Servo_Motor.jpeg" alt="Servo_Motor.jpg" height="300" width="300"/></td>
         <td><b> Servo Motor </b></td>
         <td> Atua como irrigador do solo para evolução da planta na estufa. </td>
       </tr>
       <tr>
         <td> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Relé.jpeg" alt="Relé.jpg" height="300" width="300"/></td>
         <td><b> Relé </b></td>
-        <td> Controla a Luz dentro da estufa. </td>
+        <td> Controla a iluminação dentro da estufa. </td>
       </tr>
       <tr>
-        <td> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Ponte_Hl298N.jpeg" alt="Ponte_HL298N.jpg" height="300" width="300"/></td>
+        <td> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Motor_DC.jpeg" alt="Motor_DC.jpg" height="300"                          width="300"/></td>
         <td><b> Motor DC</b></td>
-        <td> Responsável por ventilar o ambiente </td>
+        <td> Responsável por ventilar o ambiente. </td>
+      </tr>
+       <tr>
+        <td> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Ponte_Hl298N.jpeg" alt="Ponte_HL298N.jpg"                               height="300" width="300"/></td>
+        <td><b> Ponte - HL298N </b></td>
+        <td> Responsável por controlar o motor DC através da bateria. </td>
       </tr>
     </tbody>
   </table>
