@@ -316,12 +316,17 @@ A turma deverá atuar como uma equipe única de desenvolvimento, simulando uma s
  </td>
       </tr>
       <tr>
-        <td> <<img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Bateria.jpeg" alt="Bateria.jpg"                               height="300" width="300"/> </td>
+        <td> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Bateria.jpeg" alt="Bateria.jpg"                                         height="300" width="300"/> </td>
         <td><b> Bateria </b></td>
         <td> Responsável por alimentar a ponte. </td>
       </tr>
       <tr>
-       <td> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/10%20-%20Jumpers%20de%20Conex%C3%A3o.jpg" height="300" width="300"/> </td>
+        <td> <img src="https://raw.githubusercontent.com/MARILENE-384076/SmartFactory-OPC-Systems/main/Arquivos/Squad%2002/Imagens/Leds.jpeg" alt="Leds.jpg"                                               height="300" width="300"/> </td>
+        <td><b> Leds </b></td>
+        <td> Sinalizam visualmente a umidade do solo. </td>
+      </tr>
+      <tr>
+       <td> <img src="https://github.com/MaysCroft/Situacao-de-Aprendizagem-6/blob/main/Imagens%20Smart%20Factory/10%20-%20Jumpers%20de%20Conex%C3%A3o.jpg" height="300" width="300"/>          </td>
         <td><b> Jumpers de Conexão </b></td>
         <td> Fios com conectores nas pontas, utilizados para realizar as conexões elétricas entre o Arduino, a protoboard e os componentes. </td>
       </tr>
